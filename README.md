@@ -6,7 +6,24 @@
 
 ## 📁 Project Structure
 
-homeagency/ │ ├── public/ # Static public assets ├── src/ # Source code │ ├── assets/ # Images, fonts, etc. │ ├── components/ # Reusable React components │ ├── App.jsx # Root component │ ├── main.jsx # Entry point │ ├── index.css # Tailwind base styles │ ├── .gitignore # Git ignored files ├── index.html # Main HTML template ├── package.json # Project metadata & dependencies ├── postcss.config.js # PostCSS setup (Tailwind) ├── tailwind.config.js # Tailwind custom configuration ├── vite.config.js # Vite bundler config └── README.md # Project documentation
+**Project Structure:**
+
+homeagency/ <br>
+├── public/ &nbsp;&nbsp;&nbsp;&nbsp;# Static public assets <br>
+├── src/ &nbsp;&nbsp;&nbsp;&nbsp;# Source code <br>
+│   ├── assets/ &nbsp;&nbsp;&nbsp;&nbsp;# Images, fonts, etc. <br>
+│   ├── components/ &nbsp;&nbsp;&nbsp;&nbsp;# Reusable React components <br>
+│   ├── App.jsx &nbsp;&nbsp;&nbsp;&nbsp;# Root component <br>
+│   ├── main.jsx &nbsp;&nbsp;&nbsp;&nbsp;# Entry point <br>
+│   ├── index.css &nbsp;&nbsp;&nbsp;&nbsp;# Tailwind base styles <br>
+├── .gitignore &nbsp;&nbsp;&nbsp;&nbsp;# Git ignored files <br>
+├── index.html &nbsp;&nbsp;&nbsp;&nbsp;# Main HTML template <br>
+├── package.json &nbsp;&nbsp;&nbsp;&nbsp;# Project metadata & dependencies <br>
+├── postcss.config.js &nbsp;&nbsp;&nbsp;&nbsp;# PostCSS setup (Tailwind) <br>
+├── tailwind.config.js &nbsp;&nbsp;&nbsp;&nbsp;# Tailwind custom configuration <br>
+├── vite.config.js &nbsp;&nbsp;&nbsp;&nbsp;# Vite bundler config <br>
+└── README.md &nbsp;&nbsp;&nbsp;&nbsp;# Project documentation <br>
+
 
 ---
 
